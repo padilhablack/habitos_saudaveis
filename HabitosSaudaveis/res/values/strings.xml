@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hábitos Saudáveis</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="cadastro">Cadastro</string>
+    <string name="nome">Nome</string>
+    <string name="data_nascimento">Data de Nascimento</string>
+    <string name="peso_atual">Peso Atual</string>
+    <string name="altura">Altura</string>
+    <string name="cadastrar">Cadastrar</string>
+    <string name="situacao">Situação</string>
+    <string name="meta">Meta de Peso</string>
+
+</resources>
